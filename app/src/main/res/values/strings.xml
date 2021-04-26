@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IntroSlider</string>
+    <string name="skip_intro">SKIP INTRO</string>
+    <string name="next">Next</string>
+    <string name="title_text">Title Text</string>
+    <string name="description_text">Description Text</string>
+</resources>
